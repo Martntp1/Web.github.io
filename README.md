@@ -1,2 +1,38 @@
 # Web.github.io
 Pagina Web
+<!DOCTYPE html>
+<html>
+<head>
+<title>Martin Trejo Perez</title>
+<link rel="stylesheet" href="site.css">
+</head>
+ <body>
+<div class="main-content">
+   <aside>
+</div>
+   <div>
+<img src="C:\Users\user\OneDrive\Escritorio\PAGINA\RECURSOS/Avatar.jpg" id="photo-profile"/>
+  <div>
+  <h1>Martin Trejo Perez</h1>
+<div>
+  <h1>Martin Trejo Perez</h1>
+   <div>ing. Lic. Diseño Gráfico</div>
+    <div>
+     <a><i>facebook</i></a>
+     <a><i>Instagram</i></a>https://www.instagram.com/MartíínTrejofc
+     <a><i>Tik tok</i></a>https://www.tiktok.com/@fmtpptktk
+    </div>
+   </div>
+<div>
+   <ul>
+    <li>Septiembre 13, 2007</li>
+    <li>Es</li>
+    <li><a href="mailto:martintp1212@gmail.com">martintp1212@gmail.com</li>
+    <li> +52 2219874153</li>
+   </ul>
+      <a href="#">Download cv</a>
+</div>
+   </div>
+  </aside>
+ </body>
+</html>
